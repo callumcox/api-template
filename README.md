@@ -23,8 +23,6 @@ As this is intended to be a starting point for an application, you can either:
 2. Clone this repository and change the upstream to point to your own repository
 3. Download the contents and include them in your own repository
 
-## What are the base standards?
-
 ### Development
 
 To run this locally, first install the dependencies:
